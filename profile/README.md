@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/logo.png" alt="HotelRiser" height="90"/>
+
 # HotelRiser
 
 ### We build. We listen. We support. We are HotelRiser.
@@ -8,7 +10,10 @@
 
 _The all-in-one hotel technology platform, built in Türkiye for independent hotels._
 
-[hotelriser.com](https://hotelriser.com) · info@hotelriser.com
+[![Website](https://img.shields.io/badge/hotelriser.com-0B2A5B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hotelriser.com)
+[![Email](https://img.shields.io/badge/info@hotelriser.com-E8B04B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hotelriser.com)
+![Channels](https://img.shields.io/badge/150%2B_channels-1F7A5A?style=for-the-badge)
+![Support](https://img.shields.io/badge/24%2F7_support-C0392B?style=for-the-badge)
 
 </div>
 
@@ -28,6 +33,15 @@ We build one connected platform so independent and boutique hotels can sell dire
 | 🏨 **PMS** | Front office, reservations, folios, cashier, housekeeping, night audit, F&B POS, SPA and reports. |
 | 📱 **Staff mobile app** | iOS and Android, included in the PMS plan. |
 | 🛡️ **Compliance built in** | KBS guest notification automation, 5651-compliant guest Wi-Fi, e-Invoice integration. |
+
+## A look inside
+
+<p align="center">
+<img src="./assets/ozet.jpg" width="240" alt="Daily summary"/>
+<img src="./assets/takvim.jpg" width="240" alt="Room calendar"/>
+<img src="./assets/pos.jpg" width="240" alt="F&B POS"/>
+</p>
+<p align="center"><sub>Staff mobile app, demo property</sub></p>
 
 ## Results from our hotels
 
